@@ -1,6 +1,5 @@
 # DataCamp-Data-Science-Projects
 
-Data Science Projects
 
 A Visual History of Nobel Prize Winners
 
